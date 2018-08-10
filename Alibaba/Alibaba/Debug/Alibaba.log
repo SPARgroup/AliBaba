@@ -1,0 +1,4 @@
+﻿  MainAliBaba.c
+e:\projects\alibaba repo\alibaba\alibaba\alibaba\mainalibaba.c(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\projects\alibaba repo\alibaba\alibaba\alibaba\mainalibaba.c(5): warning C4013: 'getch' undefined; assuming extern returning int
+  Alibaba.vcxproj -> E:\Projects\Alibaba Repo\AliBaba\Alibaba\Debug\Alibaba.exe
